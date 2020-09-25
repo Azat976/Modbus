@@ -1,0 +1,13 @@
+C:\Users\Islamov-AI\source\repos\ModbusTest2\ModbusTest2\bin\Debug\ModbusTest2.exe.config
+C:\Users\Islamov-AI\source\repos\ModbusTest2\ModbusTest2\bin\Debug\ModbusTest2.exe
+C:\Users\Islamov-AI\source\repos\ModbusTest2\ModbusTest2\bin\Debug\ModbusTest2.pdb
+C:\Users\Islamov-AI\source\repos\ModbusTest2\ModbusTest2\obj\Debug\ModbusTest2.csproj.CoreCompileInputs.cache
+C:\Users\Islamov-AI\source\repos\ModbusTest2\ModbusTest2\obj\Debug\ModbusTest2.exe
+C:\Users\Islamov-AI\source\repos\ModbusTest2\ModbusTest2\obj\Debug\ModbusTest2.pdb
+C:\Users\Islamov-AI\Documents\ModbusTest2\ModbusTest2\bin\Debug\ModbusTest2.exe.config
+C:\Users\Islamov-AI\Documents\ModbusTest2\ModbusTest2\bin\Debug\ModbusTest2.exe
+C:\Users\Islamov-AI\Documents\ModbusTest2\ModbusTest2\bin\Debug\ModbusTest2.pdb
+C:\Users\Islamov-AI\Documents\ModbusTest2\ModbusTest2\obj\Debug\ModbusTest2.csproj.CoreCompileInputs.cache
+C:\Users\Islamov-AI\Documents\ModbusTest2\ModbusTest2\obj\Debug\ModbusTest2.exe
+C:\Users\Islamov-AI\Documents\ModbusTest2\ModbusTest2\obj\Debug\ModbusTest2.pdb
+C:\Users\Islamov-AI\Documents\ModbusTest2\ModbusTest2\obj\Debug\ModbusTest2.csprojAssemblyReference.cache
